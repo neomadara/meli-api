@@ -1,23 +1,14 @@
 import express, {Express} from "express";
-import Logger from "./src/utils/logger";
 import * as dotenv from 'dotenv'
 import cors from "cors"
+import itemsRoute from "./src/items/router"
 
 const app: Express = express()
-const port = process.env.PORT || 3000
 
 dotenv.config()
 
 app.use(express.json());
 app.use(cors());
+app.use(itemsRoute);
 
-const startServer = async () => {
-  try {
-    app.listen(port, () => Logger.info(`Server started on port ${port}`));
-  } catch (error) {
-    Logger.error(`Error: ${error}`)
-    process.exit(1);
-  }
-};
-
-export default startServer
+export default app

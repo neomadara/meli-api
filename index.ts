@@ -1,3 +1,5 @@
-import startServer from "./app";
+import app from "./app";
+import Logger from "./src/utils/logger";
+const port = process.env.PORT || 3000
 
-startServer()
+app.listen(3001, () => Logger.info(`Server started on port ${port}`));
