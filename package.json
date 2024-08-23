@@ -1,0 +1,24 @@
+{
+  "name": "meli-api",
+  "version": "1.0.0",
+  "description": "Artifact to handle the request to Mercado Pago challenge",
+  "main": "index.ts",
+  "scripts": {
+    "start:vercel": "vercel dev",
+    "start": "node dist/index.js",
+    "deploy": "vercel deploy --prod",
+    "build": "npx tsc",
+    "dev": "nodemon index.ts"
+  },
+  "author": "Cristian Gutierrez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^18.19.45",
+    "nodemon": "^2.0.20",
+    "typescript": "^4.9.4"
+  }
+}
