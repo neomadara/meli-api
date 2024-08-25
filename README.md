@@ -10,7 +10,7 @@ src/
 │   └── get-items-by-query.use-case.ts
 │   └── get-item-by-id.use-case.ts
 ├── services/
-│   └── external-service.ts
+│   └── external-api.service.ts
 ├── repositories/
 │   └── item.repository.ts
 ├── models/
