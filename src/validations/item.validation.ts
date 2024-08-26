@@ -6,3 +6,9 @@ export const getItemsSchema = z.object({
   })
 });
 
+export const getItemSchema = z.object({
+  params: z.object({
+    id: z.string({required_error: "id is required",}).min(1, {message: 'id is empty'}),
+  })
+});
+
