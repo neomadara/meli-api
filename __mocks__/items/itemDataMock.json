@@ -1,0 +1,702 @@
+{
+  "id": "MLA1389811759",
+  "site_id": "MLA",
+  "title": "Mountain Bike Infantil Gts 3309 R16 Color Negro/naranja  ",
+  "seller_id": 128411524,
+  "category_id": "MLA6143",
+  "official_store_id": 256,
+  "price": 254000,
+  "base_price": 254000,
+  "original_price": null,
+  "currency_id": "ARS",
+  "initial_quantity": 78,
+  "sale_terms": [
+    {
+      "id": "INVOICE",
+      "name": "Facturación",
+      "value_id": "6891885",
+      "value_name": "Factura A",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6891885",
+          "name": "Factura A",
+          "struct": null
+        }
+      ],
+      "value_type": "list"
+    },
+    {
+      "id": "WARRANTY_TYPE",
+      "name": "Tipo de garantía",
+      "value_id": "6150835",
+      "value_name": "Sin garantía",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6150835",
+          "name": "Sin garantía",
+          "struct": null
+        }
+      ],
+      "value_type": "list"
+    }
+  ],
+  "buying_mode": "buy_it_now",
+  "listing_type_id": "gold_pro",
+  "condition": "new",
+  "permalink": "https://articulo.mercadolibre.com.ar/MLA-1389811759-mountain-bike-infantil-gts-3309-r16-color-negronaranja-_JM",
+  "thumbnail_id": "957292-MLA69946591647_062023",
+  "thumbnail": "http://http2.mlstatic.com/D_957292-MLA69946591647_062023-I.jpg",
+  "pictures": [
+    {
+      "id": "957292-MLA69946591647_062023",
+      "url": "http://http2.mlstatic.com/D_957292-MLA69946591647_062023-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_957292-MLA69946591647_062023-O.jpg",
+      "size": "500x394",
+      "max_size": "1064x840",
+      "quality": ""
+    },
+    {
+      "id": "707745-MLU75149689255_032024",
+      "url": "http://http2.mlstatic.com/D_707745-MLU75149689255_032024-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_707745-MLU75149689255_032024-O.jpg",
+      "size": "478x500",
+      "max_size": "807x843",
+      "quality": ""
+    },
+    {
+      "id": "906477-MLU75149738757_032024",
+      "url": "http://http2.mlstatic.com/D_906477-MLU75149738757_032024-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_906477-MLU75149738757_032024-O.jpg",
+      "size": "474x500",
+      "max_size": "808x851",
+      "quality": ""
+    },
+    {
+      "id": "605709-MLU75149738763_032024",
+      "url": "http://http2.mlstatic.com/D_605709-MLU75149738763_032024-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_605709-MLU75149738763_032024-O.jpg",
+      "size": "500x500",
+      "max_size": "800x800",
+      "quality": ""
+    }
+  ],
+  "video_id": null,
+  "descriptions": [],
+  "accepts_mercadopago": true,
+  "non_mercado_pago_payment_methods": [],
+  "shipping": {
+    "mode": "me2",
+    "methods": [],
+    "tags": [
+      "self_service_out",
+      "mandatory_free_shipping",
+      "self_service_available"
+    ],
+    "dimensions": null,
+    "local_pick_up": true,
+    "free_shipping": true,
+    "logistic_type": "cross_docking",
+    "store_pick_up": false
+  },
+  "international_delivery_mode": "none",
+  "seller_address": {
+    "city": {
+      "name": "Udaondo"
+    },
+    "state": {
+      "id": "AR-B",
+      "name": "Buenos Aires"
+    },
+    "country": {
+      "id": "AR",
+      "name": "Argentina"
+    },
+    "id": 1204315646
+  },
+  "seller_contact": null,
+  "location": {},
+  "coverage_areas": [],
+  "attributes": [
+    {
+      "id": "TOY_SAFETY_CERTIFICATE_NUMBER",
+      "name": "Número de certificado de seguridad del juguete",
+      "value_id": "-1",
+      "value_name": null,
+      "values": [
+        {
+          "id": "-1",
+          "name": null,
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "ACCESSORIES_INCLUDED",
+      "name": "Accesorios incluidos",
+      "value_id": "10924171",
+      "value_name": "Timbre",
+      "values": [
+        {
+          "id": "10924171",
+          "name": "Timbre",
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "AGE_GROUP",
+      "name": "Edad",
+      "value_id": "1065183",
+      "value_name": "Niños",
+      "values": [
+        {
+          "id": "1065183",
+          "name": "Niños",
+          "struct": null
+        }
+      ],
+      "value_type": "list"
+    },
+    {
+      "id": "BICYCLE_FRAME_MATERIALS",
+      "name": "Materiales del cuadro de la bicicleta",
+      "value_id": "7129787",
+      "value_name": "Acero",
+      "values": [
+        {
+          "id": "7129787",
+          "name": "Acero",
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "BICYCLE_RIM_MATERIAL",
+      "name": "Material de la llanta",
+      "value_id": "1148891",
+      "value_name": "Aluminio",
+      "values": [
+        {
+          "id": "1148891",
+          "name": "Aluminio",
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "BICYCLE_TYPE",
+      "name": "Tipo de bicicleta",
+      "value_id": "240445",
+      "value_name": "Mountain bike",
+      "values": [
+        {
+          "id": "240445",
+          "name": "Mountain bike",
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "27028",
+      "value_name": "GTS",
+      "values": [
+        {
+          "id": "27028",
+          "name": "GTS",
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "COLOR",
+      "name": "Color",
+      "value_id": "83775",
+      "value_name": "Negro/Naranja",
+      "values": [
+        {
+          "id": "83775",
+          "name": "Negro/Naranja",
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "DETAILED_MODEL",
+      "name": "Modelo detallado",
+      "value_id": "34726082",
+      "value_name": "3309",
+      "values": [
+        {
+          "id": "34726082",
+          "name": "3309",
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "EMPTY_GTIN_REASON",
+      "name": "Motivo de GTIN vacío",
+      "value_id": "17055160",
+      "value_name": "El producto no tiene código registrado",
+      "values": [
+        {
+          "id": "17055160",
+          "name": "El producto no tiene código registrado",
+          "struct": null
+        }
+      ],
+      "value_type": "list"
+    },
+    {
+      "id": "FRONT_BRAKE_TYPE",
+      "name": "Tipo de freno delantero",
+      "value_id": "16347602",
+      "value_name": "Herradura",
+      "values": [
+        {
+          "id": "16347602",
+          "name": "Herradura",
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "FRONT_GEARS",
+      "name": "Cambios delanteros",
+      "value_id": "-1",
+      "value_name": null,
+      "values": [
+        {
+          "id": "-1",
+          "name": null,
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "GENDER",
+      "name": "Género",
+      "value_id": "19159491",
+      "value_name": "Sin género infantil",
+      "values": [
+        {
+          "id": "19159491",
+          "name": "Sin género infantil",
+          "struct": null
+        }
+      ],
+      "value_type": "list"
+    },
+    {
+      "id": "HANDLEBAR_TYPE",
+      "name": "Tipo de manubrio",
+      "value_id": "9582530",
+      "value_name": "Downhill",
+      "values": [
+        {
+          "id": "9582530",
+          "name": "Downhill",
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "IS_FOLDABLE",
+      "name": "Es plegable",
+      "value_id": "242084",
+      "value_name": "No",
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "struct": null
+        }
+      ],
+      "value_type": "boolean"
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "struct": null
+        }
+      ],
+      "value_type": "list"
+    },
+    {
+      "id": "MAIN_COLOR",
+      "name": "Color principal",
+      "value_id": "2450295",
+      "value_name": "Negro",
+      "values": [
+        {
+          "id": "2450295",
+          "name": "Negro",
+          "struct": null
+        }
+      ],
+      "value_type": "list"
+    },
+    {
+      "id": "MAX_WEIGHT_SUPPORTED",
+      "name": "Peso máximo soportado",
+      "value_id": "5231815",
+      "value_name": "70 kg",
+      "values": [
+        {
+          "id": "5231815",
+          "name": "70 kg",
+          "struct": {
+            "number": 70,
+            "unit": "kg"
+          }
+        }
+      ],
+      "value_type": "number_unit"
+    },
+    {
+      "id": "MIN_RECOMMENDED_AGE",
+      "name": "Edad mínima recomendada",
+      "value_id": "3172024",
+      "value_name": "4 años",
+      "values": [
+        {
+          "id": "3172024",
+          "name": "4 años",
+          "struct": {
+            "number": 4,
+            "unit": "años"
+          }
+        }
+      ],
+      "value_type": "number_unit"
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "9788668",
+      "value_name": "3309",
+      "values": [
+        {
+          "id": "9788668",
+          "name": "3309",
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "MPN",
+      "name": "MPN",
+      "value_id": "11277912",
+      "value_name": "10713",
+      "values": [
+        {
+          "id": "11277912",
+          "name": "10713",
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "PEDALS_MATERIAL",
+      "name": "Material de los pedales",
+      "value_id": "10924169",
+      "value_name": "Plástico",
+      "values": [
+        {
+          "id": "10924169",
+          "name": "Plástico",
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "REAR_BRAKE_TYPE",
+      "name": "Tipo de freno trasero",
+      "value_id": "16520106",
+      "value_name": "Herradura",
+      "values": [
+        {
+          "id": "16520106",
+          "name": "Herradura",
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "REAR_GEARS",
+      "name": "Cambios traseros",
+      "value_id": "-1",
+      "value_name": null,
+      "values": [
+        {
+          "id": "-1",
+          "name": null,
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "REQUIRES_ASSEMBLY",
+      "name": "Requiere ensamblado",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "struct": null
+        }
+      ],
+      "value_type": "boolean"
+    },
+    {
+      "id": "RIM_TYPE",
+      "name": "Tipo de llanta",
+      "value_id": "10924170",
+      "value_name": "Simple pared",
+      "values": [
+        {
+          "id": "10924170",
+          "name": "Simple pared",
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "SEAT_MATERIAL",
+      "name": "Material del asiento",
+      "value_id": "20999351",
+      "value_name": "cuero sintético",
+      "values": [
+        {
+          "id": "20999351",
+          "name": "cuero sintético",
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "SELLER_SKU",
+      "name": "SKU",
+      "value_id": null,
+      "value_name": "711300008",
+      "values": [
+        {
+          "id": null,
+          "name": "711300008",
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "SPEEDS_NUMBER",
+      "name": "Cantidad de velocidades",
+      "value_id": "-1",
+      "value_name": null,
+      "values": [
+        {
+          "id": "-1",
+          "name": null,
+          "struct": null
+        }
+      ],
+      "value_type": "number"
+    },
+    {
+      "id": "SUSPENSION_TYPES",
+      "name": "Tipos de suspensión",
+      "value_id": "6130308",
+      "value_name": "Delantera",
+      "values": [
+        {
+          "id": "6130308",
+          "name": "Delantera",
+          "struct": null
+        }
+      ],
+      "value_type": "list"
+    },
+    {
+      "id": "WEIGHT",
+      "name": "Peso",
+      "value_id": "925845",
+      "value_name": "11 kg",
+      "values": [
+        {
+          "id": "925845",
+          "name": "11 kg",
+          "struct": {
+            "number": 11,
+            "unit": "kg"
+          }
+        }
+      ],
+      "value_type": "number_unit"
+    },
+    {
+      "id": "WHEEL_SIZE",
+      "name": "Rodado",
+      "value_id": "94569",
+      "value_name": "16",
+      "values": [
+        {
+          "id": "94569",
+          "name": "16",
+          "struct": null
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "WITH_BASKET",
+      "name": "Con canasto",
+      "value_id": "242084",
+      "value_name": "No",
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "struct": null
+        }
+      ],
+      "value_type": "boolean"
+    },
+    {
+      "id": "WITH_CHAIN_COVER",
+      "name": "Con cubre cadena",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "struct": null
+        }
+      ],
+      "value_type": "boolean"
+    },
+    {
+      "id": "WITH_FENDERS",
+      "name": "Con guardabarros",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "struct": null
+        }
+      ],
+      "value_type": "boolean"
+    },
+    {
+      "id": "WITH_KICKSTAND",
+      "name": "Con pie de apoyo",
+      "value_id": "242084",
+      "value_name": "No",
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "struct": null
+        }
+      ],
+      "value_type": "boolean"
+    },
+    {
+      "id": "WITH_POSITIVE_IMPACT",
+      "name": "Con impacto positivo",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "struct": null
+        }
+      ],
+      "value_type": "boolean"
+    },
+    {
+      "id": "WITH_RACK",
+      "name": "Con portaequipaje",
+      "value_id": "242084",
+      "value_name": "No",
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "struct": null
+        }
+      ],
+      "value_type": "boolean"
+    },
+    {
+      "id": "WITH_TRAINING_WHEELS",
+      "name": "Con ruedas de entrenamiento",
+      "value_id": "242084",
+      "value_name": "No",
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "struct": null
+        }
+      ],
+      "value_type": "boolean"
+    }
+  ],
+  "listing_source": "",
+  "variations": [],
+  "status": "active",
+  "sub_status": [],
+  "tags": [
+    "3x_campaign",
+    "certified_quality_thumbnail",
+    "extended_warranty_eligible",
+    "good_quality_thumbnail",
+    "immediate_payment",
+    "cart_eligible"
+  ],
+  "warranty": "Sin garantía",
+  "catalog_product_id": "MLA23958759",
+  "domain_id": "MLA-BICYCLES",
+  "parent_item_id": null,
+  "deal_ids": [
+    "MLA37038"
+  ],
+  "automatic_relist": false,
+  "date_created": "2023-09-25T16:26:34.000Z",
+  "last_updated": "2024-08-24T15:56:19.000Z",
+  "health": null,
+  "catalog_listing": true
+}

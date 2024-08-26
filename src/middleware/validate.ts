@@ -7,6 +7,7 @@ export const validateRequest =
       try {
         await schema.parseAsync({
           query: req.query,
+          params: req.params,
         });
         return next();
       } catch (error: any) {
