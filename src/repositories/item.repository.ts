@@ -1,4 +1,4 @@
-import ProductData from "../models/productData.model";
+import ProductData, {Categories} from "../models/productData.model";
 import {fetchItemFromExternalApi, fetchItemsFromExternalApi} from '../services/external-api.service';
 import Author from "../models/author.model";
 import Item from "../models/item.model";
@@ -80,7 +80,9 @@ const formatItems = (results: any[]): Item[] => {
   });
 };
 
-const extractCategories = (itemsData: any): string[] => {
+const extractCategories = (itemsData: any): Categories[] => {
   const categoryFilter = itemsData.available_filters.find((filter: any) => filter.id === 'category');
-  return categoryFilter?.values.map((value: any) => value.name) || [];
+  return categoryFilter?.values
+    .sort((a: any, b: any) => b.results - a.results)
+    .map((value: any) => ({ name: value.name, results: value.results })) || [];
 };
