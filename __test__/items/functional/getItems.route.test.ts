@@ -34,7 +34,11 @@ describe('Get Items Route', () => {
         name: 'Cristian',
         lastname: 'Gutierrez',
       },
-      categories: ['Notebooks y Accesorios', 'PC de Escritorio', 'Componentes de PC'],
+      categories: [
+        {name:'Componentes de PC', results: 75471},
+        {name: 'Notebooks y Accesorios', results: 15844},
+        {name: 'PC de Escritorio', results: 15599},
+      ],
       items: [
         {
           id: 'MLA1781352704',
@@ -63,6 +67,4 @@ describe('Get Items Route', () => {
       ]
     });
   })
-
-  it.todo('Should search items by query without  a result')
 })
