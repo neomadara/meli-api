@@ -1,9 +1,9 @@
-import ProductData from "../models/productData.model";
 import * as itemRepository from '../repositories/item.repository';
 import InstrumentUseCase from "../instrumentation/instrumentation-use-case";
+import ProductResponse from "../models/product-response.model";
 
-const GetItemByIdUseCase = async (id: string): Promise<ProductData> => {
-  return await InstrumentUseCase(() => itemRepository.getItemById(id), 'GetItemByIdUseCase');
+const GetItemByIdUseCase = async (id: string): Promise<ProductResponse> => {
+  return await InstrumentUseCase(() => itemRepository.GetItemById(id), 'GetItemByIdUseCase');
 }
 
 export default GetItemByIdUseCase

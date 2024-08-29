@@ -2,7 +2,7 @@ import { Request, Response } from 'express';
 import GetItemsUseCase from '../use-cases/get-items-by-query.use-case';
 import GetItemByIdUseCase from '../use-cases/get-item-by-id.use-case';
 
-export const getItems = async (req: Request, res: Response):Promise<any> => {
+export const GetItems = async (req: Request, res: Response):Promise<void> => {
   try {
     const query = req.query.q as string;
     const items = await GetItemsUseCase(query)
@@ -16,7 +16,7 @@ export const getItems = async (req: Request, res: Response):Promise<any> => {
   }
 }
 
-export const getItemById = async (req: Request, res: Response):Promise<any> => {
+export const GetItemById = async (req: Request, res: Response):Promise<void> => {
   try {
     const id = req.params.id as string;
     const item = await GetItemByIdUseCase(id)

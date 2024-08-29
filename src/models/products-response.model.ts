@@ -1,7 +1,7 @@
 import Author from "./author.model";
 import Item from "./item.model";
 
-type ProductData = {
+type ProductsResponse = {
   author: Author;
   categories: Categories[];
   items: Item[];
@@ -12,4 +12,4 @@ export type Categories = {
   results: number
 }
 
-export default ProductData;
+export default ProductsResponse;
